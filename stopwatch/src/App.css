@@ -1,0 +1,25 @@
+.app {
+  text-align: center;
+  padding: 30px;
+}
+
+.box {
+  background: white;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 300px;
+}
+
+.box h1 {
+  font-size: 55px;
+  margin: 10px 0;
+}
+
+button {
+  font-size: 16px;
+  padding: 8px 16px;
+  margin: 5px;
+  cursor: pointer;
+}
